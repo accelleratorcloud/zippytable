@@ -13,5 +13,14 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-
+    tr{
+        background-color: #4dceff !important;
+        th{
+            td{
+                color:white;
+                font-weight: 600;
+                letter-spacing: 1px;
+            }
+        }
+    }
 </style>
